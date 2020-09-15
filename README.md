@@ -1,4 +1,8 @@
 # Stretch Agency Spider
+![NPM Version](https://img.shields.io/npm/v/stretch-spider)
+
+### [Web Documentation](https://stretch-spider.netlify.app/)
+
 ## Installation
 Add the spider to your project by running
 ```
