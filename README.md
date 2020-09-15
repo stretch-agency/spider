@@ -14,11 +14,11 @@ npm install stretch-spider --save
 ```
 
 After that you can import it to your css
-```
+```css
 @import '~/stretch-spider'
 ```
 or your html
-```
+```html
 <link rel="stylesheet" href="./node_modules/stretch-spider/index.css">
 ```
 ## Examples
