@@ -15,7 +15,7 @@ npm install stretch-spider --save
 
 After that you can import it to your css
 ```css
-@import '~/stretch-spider'
+@import '~stretch-spider'
 ```
 or your html
 ```html
